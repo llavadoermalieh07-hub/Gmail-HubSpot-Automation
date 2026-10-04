@@ -13,7 +13,7 @@ AI Agent that saves 10+ hrs/week for SaaS founders.
 - 100% automated
 
 ## Tech Stack
-Make.com, Gmail API, HubSpot API, Google Sheets API, OpenAI
+Make.com, Gmail API, HubSpot API, Google Sheets API, ai agent
 
 ## How it works
 1. New email arrives
@@ -22,5 +22,5 @@ Make.com, Gmail API, HubSpot API, Google Sheets API, OpenAI
 4. Logs to Sheets for tracking
 
 ---
-Built by Ermaliah Llavado | AI Automation Specialist
+Built by Ermalieh Llavado | AI Automation Specialist
 Available for $150 automation setups
